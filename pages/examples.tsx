@@ -1,5 +1,5 @@
 import { ExamplesDiv, Title, Photos } from "../styles/examplesStyles";
-import { examplesPhotos } from '../.next/photos/examplesPhotos';
+import { examplesPhotos } from '../photos/examplesPhotos';
 import DrawExamplesPhoto from "./drawExamplesPhoto";
 
 const Examples = () =>

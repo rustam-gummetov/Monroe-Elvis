@@ -1,5 +1,5 @@
 import { PhotosDiv } from "../styles/photosStyles";
-import { pagePhotos } from "../.next/photos/pagePhotos";
+import { pagePhotos } from "../photos/pagePhotos";
 import DrawPagePhoto from "./drawPagePhoto";
 
 const Photos = () => (
